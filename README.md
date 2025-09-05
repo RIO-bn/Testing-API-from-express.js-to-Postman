@@ -5,3 +5,6 @@ The API is already working to check
 1. run npm run dev
 2. test the api in postman
 3. example PUT http://localhost:5000/api/products/68b944a413465cecfcaf4fed
+
+4. important note: change the database mongodb into your own clusters
+5. 
